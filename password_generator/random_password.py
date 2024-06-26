@@ -10,5 +10,5 @@ for i in range(pass_len):
     password += random.choice(charvalue)
 
 #list comprehension password="".join([random.choice(charvalue) for i in range(pass_len)])
-#print(res)
+#print(res)    
 print("your random password is: ", password)
