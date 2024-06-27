@@ -1,5 +1,5 @@
 import os
-from cryptography.fernet import Fernet
+from cryptography.fernet import Fernet    
 
 # Key file to store the encryption key
 KEY_FILE = 'key.key'
