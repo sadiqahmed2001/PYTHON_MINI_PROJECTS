@@ -1,5 +1,5 @@
 from googletrans import Translator               
-
+            
 def translate_text(user_input, dest_lang):
     translator = Translator()
     translation = translator.translate(user_input, dest=dest_lang)
