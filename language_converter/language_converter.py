@@ -1,4 +1,4 @@
-from googletrans import Translator
+from googletrans import Translator               
 
 def translate_text(user_input, dest_lang):
     translator = Translator()
