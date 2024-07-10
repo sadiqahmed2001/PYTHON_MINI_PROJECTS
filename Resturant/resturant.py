@@ -1,4 +1,4 @@
-from tkinter import *
+from tkinter import *            
 #  Copyright : @python.coder_      
 import time
 import random
