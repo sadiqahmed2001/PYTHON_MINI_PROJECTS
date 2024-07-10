@@ -1,4 +1,4 @@
-import random
+import random    
 
 class MazeGenerator:
     def __init__(self, rows, cols):
