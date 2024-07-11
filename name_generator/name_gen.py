@@ -1,4 +1,4 @@
-import random
+import random                   
 
 class FantasyNameGenerator:
     def __init__(self, themes):
