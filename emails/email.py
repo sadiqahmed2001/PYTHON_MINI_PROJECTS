@@ -9,7 +9,7 @@ def send_email_notification(sender_email, sender_password, recipient_emails, sub
         smtp_port = 587
         server = smtplib.SMTP(smtp_server, smtp_port)
         server.starttls()
-        server.login(sender_email, sender_password)
+        server.login(sender_email, sender_password)   
 
         # Construct email message
         msg = MIMEMultipart()
