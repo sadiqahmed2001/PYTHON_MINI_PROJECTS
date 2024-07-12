@@ -1,6 +1,6 @@
 import smtplib  
 from email.mime.multipart import MIMEMultipart
-from email.mime.text import MIMEText
+from email.mime.text import MIMEText  
 
 def send_email_notification(sender_email, sender_password, recipient_emails, subject, message, message_type='plain'):
     try:
