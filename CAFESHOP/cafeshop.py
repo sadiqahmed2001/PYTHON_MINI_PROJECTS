@@ -4,7 +4,7 @@ def display_menu():
         "tea": 2.50,
         "sandwich": 5.00,
         "cake": 4.00
-    }
+    }  
     
     print("Welcome to Our Cafe")
     print("Menu:")
