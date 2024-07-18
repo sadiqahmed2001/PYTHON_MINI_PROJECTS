@@ -1,4 +1,4 @@
-class ATM:
+class ATM: 
     def __init__(self, user_pin, initial_balance=0):
         self.user_pin = user_pin
         self.balance = initial_balance
