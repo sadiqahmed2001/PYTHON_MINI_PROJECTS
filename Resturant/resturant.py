@@ -1,5 +1,4 @@
-from tkinter import *            
-#  Copyright : @python.coder_      
+from tkinter import *              
 import time
 import random
 from datetime import date
