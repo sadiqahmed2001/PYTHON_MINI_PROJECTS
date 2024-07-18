@@ -1,4 +1,4 @@
-from tkinter import *              
+from tkinter import *         
 import time
 import random
 from datetime import date
