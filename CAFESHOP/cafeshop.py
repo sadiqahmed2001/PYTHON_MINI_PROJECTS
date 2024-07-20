@@ -1,4 +1,4 @@
-def display_menu():              
+def display_menu():            
     menu = {
         "coffee": 3.00,
         "tea": 2.50,
