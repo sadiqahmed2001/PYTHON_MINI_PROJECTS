@@ -6,7 +6,7 @@ def speak(text):
     engine.setProperty('volume', 190)  
     engine.setProperty("voice","english_rp")
     engine.say(text)
-    engine.runAndWait()
+    engine.runAndWait()  
 
 class human:
     def __init__(self):
